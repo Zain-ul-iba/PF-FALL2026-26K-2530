@@ -19,7 +19,7 @@ I am a first-semester student learning programming and problem solving.
 ***I want to become better at coding.***
 
 ~~I will never learn programming.~~
-
+> "Talk is cheap. Show me the code." — Linus Torvalds
 ## My Subjects
 
 - Programming Fundamentals
